@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "everyhere",
+    "slug": "everyhere",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "everyhere"
+}

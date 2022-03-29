@@ -1,0 +1,6 @@
+module Pods_everyhere {
+  umbrella header "Pods-everyhere-umbrella.h"
+
+  export *
+  module * { export * }
+}
